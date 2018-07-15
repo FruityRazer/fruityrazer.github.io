@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## FruityRazer
 
-You can use the [editor on GitHub](https://github.com/FruityRazer/fruityrazer.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This project is currently in a WFM (works for me) state, keep that in mind!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Just want to use it? Grab the latest version of FruityRazer + FruityUI [here](https://github.com/FruityRazer/FruityUI/releases/download/v0.1-wfm/FruityUI-0.1.0.dmg).
 
-### Markdown
+### Project Layout
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[FruityRazer](https://github.com/FruityRazer/FruityRazer): User-space driver, written in Objective-C and C.
+[FruityUI](https://github.com/FruityRazer/FruityUI): A user interface, written in JS and JSX (Electron and React).
 
-```markdown
-Syntax highlighted code block
+### Supported Devices
 
-# Header 1
-## Header 2
-### Header 3
+ - Razer Base Station Chroma
+ - Razer Firefly
+ - Razer Huntsman Elite
+ - Razer Mamba
 
-- Bulleted
-- List
+### Contribute
 
-1. Numbered
-2. List
+Feel free to open a PR in any of the repositories.
 
-**Bold** and _Italic_ and `Code` text
+### Having issues?
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FruityRazer/fruityrazer.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Open an issue in any of the repositories and I'll try to help.
