@@ -7,6 +7,7 @@ Just want to use it? Grab the latest version of FruityRazer + FruityUI [here](ht
 ### Project Layout
 
 [FruityRazer](https://github.com/FruityRazer/FruityRazer): User-space driver, written in Objective-C and C.
+
 [FruityUI](https://github.com/FruityRazer/FruityUI): A user interface, written in JS and JSX (Electron and React).
 
 ### Supported Devices
