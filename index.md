@@ -2,7 +2,7 @@
 
 This project is currently in a WFM (works for me) state, keep that in mind!
 
-Just want to use it? Grab the latest version of FruityRazer + FruityUI [here](https://github.com/FruityRazer/FruityUI/releases/download/v0.1-wfm/FruityUI-0.1.0.dmg).
+Just want to use it? Grab the latest version of FruityRazer + FruityUI [here](https://github.com/FruityRazer/FruityUI/releases/download/v0.1.1-wfm/FruityUI-0.1.1-signed.dmg).
 
 ### Project Layout
 
