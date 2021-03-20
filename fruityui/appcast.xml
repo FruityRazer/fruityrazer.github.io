@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>FruityUI</title>
+        <item>
+            <title>1.4</title>
+            <pubDate>sáb., 20 mar. 2021 11:06:11 +0000</pubDate>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/FruityRazer/FruityUI/releases/download/v1.4/FruityRazer.zip" sparkle:version="29" sparkle:shortVersionString="1.4" length="2133127" type="application/octet-stream" sparkle:edSignature="DG8AF6bnguQghOOHhlU5izUMpkcte3Vf1MH8GYHxEibZdMLhfLIgHBtgIonB0HNtcbB1jlp2Wzpani1QW5ATAQ=="/>
+        </item>
+    </channel>
+</rss>
+

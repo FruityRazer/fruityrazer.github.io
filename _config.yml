@@ -2,6 +2,3 @@ theme: jekyll-theme-midnight
 
 title: FruityRazer
 description: Open-source Razer drivers for macOS
-
-download:
-  dist:   "https://github.com/FruityRazer/FruityUI/releases/download/v0.1-wfm/FruityUI-0.1.0.dmg"
