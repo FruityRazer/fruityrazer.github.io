@@ -2,3 +2,6 @@ theme: jekyll-theme-midnight
 
 title: FruityRazer
 description: Open-source Razer drivers for macOS
+
+github:
+  is_project_page: false
