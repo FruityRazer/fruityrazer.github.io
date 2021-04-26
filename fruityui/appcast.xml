@@ -23,5 +23,15 @@
                 <enclosure url="https://github.com/FruityRazer/FruityUI/releases/download/v1.4.2/FruityUI31-30.delta" sparkle:version="31" sparkle:shortVersionString="1.4.2" sparkle:deltaFrom="30" length="66496" type="application/octet-stream" sparkle:edSignature="JiDNgg2zRBZJFZbkrMakMiMglUSKHdi+y3bFarGrDC+GySSx+5PA+crmnJiDgB/uQ6bJfxnvCG+Pag3lGpoMAg=="/>
             </sparkle:deltas>
         </item>
+        <item>
+            <title>1.4.3</title>
+            <pubDate>seg., 26 abr. 2021 08:47:02 +0100</pubDate>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/FruityRazer/FruityUI/releases/download/v1.4.3/FruityUI.zip" sparkle:version="32" sparkle:shortVersionString="1.4.3" length="2850331" type="application/octet-stream" sparkle:edSignature="ow2e88B6rsvwzG+Yucp3A4KKIUwd3GVYUT99zhT0NbLpxixldjo0OU+hMMqloWKpLROjkPHDJ+KNOYGDa6qXBQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/FruityRazer/FruityUI/releases/download/v1.4.2/FruityUI32-31.delta" sparkle:version="32" sparkle:shortVersionString="1.4.3" sparkle:deltaFrom="31" length="83658" type="application/octet-stream" sparkle:edSignature="1AWjfqMqOorG10ifFUUPCrAZD4pik5hbu4PuS3VswNOMjN+dH9lKquIk5W0gxCij2vr9PBeF/BL7Nl/KXgeXAw=="/>
+                <enclosure url="https://github.com/FruityRazer/FruityUI/releases/download/v1.4.2/FruityUI32-30.delta" sparkle:version="32" sparkle:shortVersionString="1.4.3" sparkle:deltaFrom="30" length="122054" type="application/octet-stream" sparkle:edSignature="nqavNcYx0l+j69FbMpUvSt3HVwyx4/hQNzQxOomnnZfHDs2f+Rdgopl/Fxdri1jxz2QIXamDHPpo5TCA4DmsDg=="/>
+            </sparkle:deltas>
+        </item>
     </channel>
 </rss>
