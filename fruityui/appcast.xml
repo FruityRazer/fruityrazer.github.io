@@ -33,5 +33,16 @@
                 <enclosure url="https://github.com/FruityRazer/FruityUI/releases/download/v1.4.2/FruityUI32-30.delta" sparkle:version="32" sparkle:shortVersionString="1.4.3" sparkle:deltaFrom="30" length="122054" type="application/octet-stream" sparkle:edSignature="nqavNcYx0l+j69FbMpUvSt3HVwyx4/hQNzQxOomnnZfHDs2f+Rdgopl/Fxdri1jxz2QIXamDHPpo5TCA4DmsDg=="/>
             </sparkle:deltas>
         </item>
+        <item>
+            <title>1.4.4</title>
+            <pubDate>sáb., 08 mai. 2021 02:07:55 +0100</pubDate>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/FruityRazer/FruityUI/releases/download/v1.4.4/FruityUI.zip" sparkle:version="33" sparkle:shortVersionString="1.4.4" length="2912460" type="application/octet-stream" sparkle:edSignature="YwQV07xE/Lf0RUIHE6rIzmeqrFNYAw5nIsvNqcH8XJh1yLBD67sPKD9nbgBYYYKoSSvjm+DZpXkznw3Ed5t5Ag=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/FruityRazer/FruityUI/releases/download/v1.4.4/FruityUI33-32.delta" sparkle:version="33" sparkle:shortVersionString="1.4.4" sparkle:deltaFrom="32" length="380525" type="application/octet-stream" sparkle:edSignature="XiJ3+PEPQInPkBNBr3rDyttjdCF9QBxBvu4QzS0UFy1b3fuZ0WposkSJDMCVzZI9DgJ/WZlyXvzW10/bvhwzAQ=="/>
+                <enclosure url="https://github.com/FruityRazer/FruityUI/releases/download/v1.4.4/FruityUI33-31.delta" sparkle:version="33" sparkle:shortVersionString="1.4.4" sparkle:deltaFrom="31" length="385369" type="application/octet-stream" sparkle:edSignature="Dd9O5VCzbD6414osObX5+pY1amf2BjSrmkTGvV7P3ZyKj978x85sAKoQqasnLtXfSbBTBJZBHJnaWpR4kiyGBw=="/>
+                <enclosure url="https://github.com/FruityRazer/FruityUI/releases/download/v1.4.4/FruityUI33-30.delta" sparkle:version="33" sparkle:shortVersionString="1.4.4" sparkle:deltaFrom="30" length="411818" type="application/octet-stream" sparkle:edSignature="W2fflry5/yMDauhzqMvrTGSziiLl06pA0ROLHKPImBF0JiatLkImea6pG/YYpUCFYBk4J1pv3MwahE5JHxZuBA=="/>
+            </sparkle:deltas>
+        </item>
     </channel>
 </rss>
